@@ -1,4 +1,4 @@
-# Hello World!
+# Hello World! :cowboy_hat_face:
 
 ## Favorite Sports
 1. Soccer
@@ -15,4 +15,3 @@
 - [x] Physics Homework
 - [ ] English Reading
 
-:cowboy_hat_face:
