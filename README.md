@@ -14,3 +14,5 @@
 - [x] Math Homework
 - [x] Physics Homework
 - [ ] English Reading
+
+:cowboy_hat_face:
