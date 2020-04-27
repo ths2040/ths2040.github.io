@@ -1,4 +1,5 @@
-# Hello World! :cowboy_hat_face:
+# Hello World! 
+:cowboy_hat_face:
 
 ## Favorite Sports
 1. Soccer
